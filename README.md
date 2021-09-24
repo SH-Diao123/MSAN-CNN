@@ -1,3 +1,3 @@
 # MSAN-NET
 
-Relevant data and code will be uploaded as soon as possible
+Relevant dataset and code will be uploaded as soon as possible.
