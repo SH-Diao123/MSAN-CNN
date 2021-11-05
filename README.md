@@ -5,7 +5,7 @@
 This is a PyTorch implementation of the paper 'Weakly-supervised framework for cancer regions detection of hepatocellular carcinoma in whole-slide pathological images based on multi-scale attention convolutional neural network',  and We'll refine the data and code over time.
 
 
-![overview](https://github.com/SH-Diao123/MSAN-CNN/blob/master/assets/overview.png)
+![overview](https://github.com/SH-Diao123/MSAN-CNN/blob/main/assets/overview.png)
 
 ## 🤝 Authorization 
 If you would like to use our data, please contact us first and obtain authorization to use it.
