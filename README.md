@@ -19,7 +19,7 @@ If you find this code is useful for your research, please consider citing:
 @article{
 title={Weakly-supervised framework for cancer regions detection of hepatocellular carcinoma in whole-slide pathological images based on multi-scale attention convolutional neural network}，
 author={Songhui Diao, Yinli Tian, Wanming Hu, Jiaxin Hou, Ricardo Lambo, Zhicheng Zhang, Yaoqin Xie, Xiu Nie, Fa Zhang, Racoceanu Daniel, Wenjian Qin}，
-journal={The American Journal of Pathology}，
+journal={XXX}，
 year={2021},
 }
 ```
@@ -35,15 +35,9 @@ year={2021},
 - validation data
 - test data
 
-## Training and Validation
+## Training
 Training a network with default arguments. Model checkpoints and tensorboard logs are written out to a unique directory created by default within experiments/models and experiments/logs respectively after starting training.
 If conditions permit, it will be better to pre-train the model first.
-```javascript 
-python main.py
-```
-
-## Testing
-You can run validation and testing on the checkpointed best model by:
 ```javascript 
 python main.py
 ```
