@@ -45,7 +45,7 @@ python main.py
 ## Testing
 You can run validation and testing on the checkpointed best model by:
 ```javascript 
-python test.py
+python main.py
 ```
 
 
